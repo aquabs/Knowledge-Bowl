@@ -11,30 +11,32 @@ Knowledge Bowl Practices generally start in early October, with the first meet b
 
 Practices are during A and B lunches, all days but Thursday. You are asked to maintain an attendance of two practices a week. There are four Round Robin meets which are smaller preperation meets
 If you are interested please visit the [Camas High School Knowledge Bowl Page](http://kbowl.mistergweb.com/).
-```markdown
-Syntax highlighted code block
+<img src="https://drive.google.com/file/d/13L-zB8goHutIX1t4C9kOVAA-4C6M3HsI/view?usp=sharing" align="center">
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aquabs/Knowledge-Bowl/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 2017-2018 Season
+### Districts
+### Results
+  #### Results
+  <table>
+    <tr>
+      <th>Team</th>
+      <th>Written RR1</th>
+      <th>Oral 1 RR1</th>
+      <th>Oral 1 RR1</th>
+      <th>Total</th>
+      <th>Place</th>
+      <th>Written RR2</th>
+      <th>Oral 1 RR2</th>
+      <th>Oral 1 RR2</th>
+      <th>Written RR3</th>
+      <th>Oral 1 RR3</th>
+      <th>Oral 1 RR3</th>
+      <th>Ranking</th>
+  </tr>
+  <tr>
+    <td>Varsity 1</td>
+    <td></td>
+    
+    
+  
+      
