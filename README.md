@@ -4,10 +4,12 @@ Knowledge Bowl is a team competition like jeopardy, where students are tested on
 
 Points are awarded through the answering of a variety of math, science, history, English, social studies,( etc. ) questions in two different formats. The first is a 50 minute 60 question written exam where teams work in collaboration to answer as many questions correctly as they can. The second are two oral rounds (60 questions each) in which students attempt to answer questions correctly as fast as they can and before the other teams. The winning team is determined by the cumulative points of all three rounds.
 
-### Markdown
+### Scheduling
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Knowledge Bowl Practices generally start in early October, with the first meet being in early November.
 
+Practices are during A and B lunches, all days but Thursday. You are asked to maintain an attendance of two practices a week. There are four Round Robin meets which are smaller preperation meets
+If you are interested please visit the [Camas High School Knowledge Bowl Page](http://kbowl.mistergweb.com/).
 ```markdown
 Syntax highlighted code block
 
