@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to Camas High School Knowledge Bowl
 
 You can use the [editor on GitHub](https://github.com/aquabs/Knowledge-Bowl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
