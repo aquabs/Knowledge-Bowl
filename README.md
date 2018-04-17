@@ -1,6 +1,3 @@
-<header>
-  <img src="http://www.mistergweb.com/clean_logo.png" border="0" alt="error" align="left" height="25%" width="25%">
-</header>
 
 ## Welcome to Camas High School Knowledge Bowl
 <img src="http://schools.camas.wednet.edu/skyridge/files/2016/01/washington_state_knowledge_bowl.gif" align="right">                                                                                              
