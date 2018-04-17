@@ -11,7 +11,6 @@ Knowledge Bowl Practices generally start in early October, with the first meet b
 
 Practices are during A and B lunches, all days but Thursday. You are asked to maintain an attendance of two practices a week. There are four Round Robin meets which are smaller preperation meets
 If you are interested please visit the [Camas High School Knowledge Bowl Page](http://kbowl.mistergweb.com/).
-<img src="" align="right">
 
 # 2017-2018 Season
 ### Districts
