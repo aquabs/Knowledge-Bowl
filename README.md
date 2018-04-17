@@ -1,8 +1,8 @@
-# Welcome to Camas High School Knowledge Bowl
+## Welcome to Camas High School Knowledge Bowl
 
-You can use the [editor on GitHub](https://github.com/aquabs/Knowledge-Bowl/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Knowledge Bowl is a team competition like jeopardy, where students are tested on interdisciplinary academic knowledge. The overall school's team is split into several smaller teams of up to six students. At Camas knowledge bowl teams typically stay in the 5-6 student range. Students compete against neighboring schools to score the most points.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Points are awarded through the answering of a variety of math, science, history, English, social studies,( etc. ) questions in two different formats. The first is a 50 minute 60 question written exam where teams work in collaboration to answer as many questions correctly as they can. The second are two oral rounds (60 questions each) in which students attempt to answer questions correctly as fast as they can and before the other teams. The winning team is determined by the cumulative points of all three rounds.
 
 ### Markdown
 
