@@ -1,5 +1,5 @@
-<header>
-  <img src="http://www.mistergweb.com/clean_logo.png" border="0" alt="error" align="right">
+ <header>
+  <img src="http://www.mistergweb.com/clean_logo.png" border="0" alt="error" align="right" height="25%" width="25%">
 </header>
 
 ## Welcome to Camas High School Knowledge Bowl
