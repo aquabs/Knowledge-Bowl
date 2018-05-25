@@ -1,14 +1,13 @@
-<h1><img src="http://schools.camas.wednet.edu/skyridge/files/2016/01/washington_state_knowledge_bowl.gif" alt="Knowledge Bowl" width="15%"></h1>
+<h1><img src="http://schools.camas.wednet.edu/skyridge/files/2016/01/washington_state_knowledge_bowl.gif" alt="Knowledge Bowl" width="10%"></h1>
 
-> Version 5 – the iconic SVG, font, and CSS framework
+> Version 1 – the first try mainly copying
 
 The internet's most popular icon toolkit has been redesigned and built from
 scratch. On top of this, features like icon font ligatures, an SVG framework,
 official NPM packages for popular frontend libraries like React, and access to
 a new CDN.
 
-Not familiar with Font Awesome 5? [Learn
-more](https://www.kickstarter.com/projects/232193852/font-awesome-5) about our
+Not familiar with Knowledge Bowl? [Rules](https://www.kickstarter.com/projects/232193852/font-awesome-5) about our
 successful Kickstarter and plan. You can also **[order Font Awesome
 Pro](https://fontawesome.com/pro)** which includes tons more icons directly
 from [fontawesome.com](https://fontawesome.com).
